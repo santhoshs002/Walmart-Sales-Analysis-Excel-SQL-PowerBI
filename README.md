@@ -16,9 +16,9 @@ To analyze Walmart’s weekly sales data from 2010 to 2012 to uncover patterns, 
 |--------------------------------------------|-------------------------------------------------------------------------|
 | `Walmart Sales Data - Raw Data.csv`        | Original raw data provided                                              |
 | `Walmart Sales Data - Fixed Date.csv`      | Cleaned date column using Excel for MySQL compatibility                |
-| `Walmart Cleaned Data.xlsx`                | Final cleaned data for Power BI                                        |
 | `Walmart Data Cleaning.sql`                | SQL script for data cleaning (duplicates, nulls, anomalies)            |
 | `Walmart EDA & KPI.sql`                    | SQL script for EDA queries and key KPIs                                |
+| `Walmart Cleaned Data.xlsx`                | Final cleaned data for Power BI                                        |
 | `Walmart_Sales_Analysis.pbix`              | Power BI report/dashboard file                                         |
 
 ---
@@ -91,12 +91,6 @@ To analyze Walmart’s weekly sales data from 2010 to 2012 to uncover patterns, 
 ✔️ Creating KPIs using SQL and Power BI  
 ✔️ Using slicers and visuals effectively in Power BI  
 ✔️ End-to-end data analytics project workflow
-
----
-
-## 📧 Contact
-
-Feel free to reach out via GitHub Issues or LinkedIn if you have questions or suggestions!
 
 ---
 
